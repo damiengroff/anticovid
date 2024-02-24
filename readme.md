@@ -1,7 +1,7 @@
 # Anticovid
 
 ## What is it?
-This is my first python project. It's a simple program implementing swiss university EPFL's [Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents/blob/master/public_engagement/cartoon/en/shortened_onepage.png) strategy for covid (DP^3T) :
+This is my first python project, a simple program implementing swiss university EPFL's [Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents/blob/master/public_engagement/cartoon/en/shortened_onepage.png) strategy for covid (DP^3T) :
 
 ![](imgs\dp3t.PNG)
 
