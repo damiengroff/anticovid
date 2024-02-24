@@ -1,0 +1,6 @@
+__pycache__
+venv-*
+.Rhistory
+test.*
+save.json
+client.json
