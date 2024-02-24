@@ -42,12 +42,14 @@ Press **CAPS LOCK** to print the current catalogue to the console, it should mat
 Press **ALT** to toggle proximity settings. phones start to exchange messages every 5s. After a few messages, you can turn proximity back off and check the catalogue's new state with **CAPS LOCK**.
 
 ![](imgs/2.JPG)
+
 _Note: see how the catalogue is shared between phones and hospital when testing on localhost._
 
 ### 3 - Declare a covid case
 Press **CTRL** to declare a covid case, all your '_I said_' messages will be sent to the hospital. The hospital stores them in its catalog.
 
 ![](imgs/3.JPG)
+
 _Note: on the example above, the hospital's catalogues has been purged (outdated message where deleted), in the repository version it's puged only when a phone request the catalogue._
 
 ### 4 - covid risk?
